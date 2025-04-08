@@ -2,17 +2,26 @@ subject: Education
 listing-order: 2
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: Farvard University, PhD in Computer Science
+  - title: Turing School of Software and Design
     description:
-      - Design of a method to build a probabilistic generative model
-      - Development of model calibration algorithm for cross-domain few-shot learning
-    date: Mar. 2019 - Aug. 2023
-  - title: Stanfort University, MA in Computer Science
+      - A 7-12 month immersive course focused on web application development using Ruby, JavaScript, React, and Ruby on Rails
+      - Learn object-oriented programming, test-driven development (TDD), and both front-end and back-end technologies.
+      - Emphasizes hands-on, project-based learning, completing individual, pair, and group projects to build real-world web applications and collaborate with peers.
+    date: Apr. 2024 - May. 2025
+    degree: Accredited Certificate in Full Stack Engineering
+    location: Albuquerque, New Mexico (remote)
+  # - title: Stanfort University, MA in Computer Science
+  #   description:
+  #     - Development of deep learning algorithms for automatically tracking the facial expressions
+  #     - Optimizing parameter efficient fine tuning for fairness in medical image analysis
+  #   grade: "**GPA**: `4.1/4.3`"
+  #   date: Mar. 2014 - Feb. 2016
+  - title: nex+Gen Academy High School
     description:
-      - Development of deep learning algorithms for automatically tracking the facial expressions
-      - Optimizing parameter efficient fine tuning for fairness in medical image analysis
-    grade: "**GPA**: `4.1/4.3`"
-    date: Mar. 2014 - Feb. 2016
-  - title: Kambridge University, BA in Electronic Engineering
-    grade: "**GPA**: `3.9/4.3`"
-    date: Mar. 2010 - Feb. 2014
+      - A project-based, technology-driven high school that integrates subjects like math, science, and the arts with hands-on tech applications.
+      - Worked on interdisciplinary, real-world projects such as engineering challenges and multimedia production, fostering teamwork and creative problem-solving.
+      - Participated in diverse activities including Tech Assistant, Film Club, Yearbook Club, Gaming Club, and the Exchange Student Program, enhancing teamwork and leadership skills.
+    date: Apr. 2024 - May. 2025
+    degree: High School Diploma 
+    location: Albuquerque, New Mexico
+    date: Aug. 2012 - May. 2016
