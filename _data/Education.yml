@@ -10,12 +10,13 @@ contents:
     date: Apr. 2024 - May. 2025
     degree: Accredited Certificate in Full Stack Engineering
     location: Albuquerque, New Mexico (remote)
-  # - title: Stanfort University, MA in Computer Science
-  #   description:
-  #     - Development of deep learning algorithms for automatically tracking the facial expressions
-  #     - Optimizing parameter efficient fine tuning for fairness in medical image analysis
-  #   grade: "**GPA**: `4.1/4.3`"
-  #   date: Mar. 2014 - Feb. 2016
+  - title: Central New Mexico Community College (Business Administration)
+    description:
+      - Engages in foundational subjects such as accounting, business law, entrepreneurship, management, marketing, and professionalism, applying technology to solve business challenges. 
+      - Emphasizes experiential learning through community projects and real-world research, fostering teamwork and decision-making abilities
+    Degree: Some college (Not completed)
+    location: Albuquerque, New Mexico
+    date: Aug. 2018 - Jan. 2020
   - title: nex+Gen Academy High School
     description:
       - A project-based, technology-driven high school that integrates subjects like math, science, and the arts with hands-on tech applications.
