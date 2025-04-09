@@ -2,21 +2,24 @@ subject: Experiences
 listing-order: 3
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: Target
+    role: Closing expert
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+      -  Implemented closing routines and collaborated across departments to streamline operations, enhancing overall store efficiency.
+      - Responded to diverse guest interactions and dynamic situations, demonstrating flexibility and effective decision-making to resolve issues promptly. 
+      - Ensured adherence to safety and compliance standards during closing procedures, maintaining a clean and organized environment. 
+    date: Apr. 2023 - Feb. 2024
+  - title: Ten3 Restaurant
+    role: Fine Dining Server/Front of House Manager
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
+      - Provided attentive service, addressed customer needs promptly, and ensured a positive dining experience.
+      - Led and trained front-of-house staff, fostering a collaborative environment to achieve operational excellence. 
+      - Supervised front-of-house activities, collaborated closely with back-of-house cooks and supervisors to ensure seamless service, and proactively addressed any challenges to maintain smooth workflows.
+    date: Oct. 2021 - Jan. 2023
+  - title: Starbucks
+    role: Barista/Shift Supervisor
     description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Engaged directly with customers, delivering personalized service and resolving issues promptly, ensuring satisfaction.
+      - Led shifts, coordinated team activities, and fostered a collaborative environment to achieve operational goals. 
+      - Oversaw store operations, managed inventory, and addressed challenges proactively to maintain smooth workflows.  
+    date: Jan. 2020 - Sep. 2021
