@@ -8,7 +8,8 @@ contents:
       - Integrated  react router to support client-side routing and maintain a seamless single-page application experience
       - Established robust end-to-end testing with cypress, utilizing network request stubbing to ensure consistent and reliable test coverage across user flows
       - "Technology Used: React, Javascript, CSS, Cypress"
-    image: "![](/assets/img/RancidHP.png) ![](/assets/img/RancidDetails.png)"
+    image: "![](/assets/img/RancidHP.png) 
+            ![](/assets/img/RancidDetails.png)"
   - title: "Cardfolio ([Deployed Link](https://cardfolio-fe.onrender.com), [BE Repo](https://github.com/JonoSommers/cardfolio-BE), [FE Repo](https://github.com/JonoSommers/Cardfolio-FE))"
     description: 
       - Built a RESTful rails API to mange users, binders, and collectible cards, leveraging a many-to-many relationship structure
