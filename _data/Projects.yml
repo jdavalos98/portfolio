@@ -17,8 +17,8 @@ contents:
       - Implemented comprehensive testing suites with RSpec for backend and controllers, and cypress for frontend end-to-end tests, ensuring application stability and reliability
       - "Technology Used: React, JSX, Cypress, Rails, Ruby, Rspec, PostgreSQL"
     image: "![](/assets/img/CardHomePage.png) ![](/assets/img/PokemonSearch.png)"
-  # - title: "Journey Like a Genius ([https://pitorch.org/](https://pytorch.org/))" 
-  #   description: 
-  #     - Machine learning library for applications such as computer vision and natural language processing
-  #     - "Technology Used: Python, Cuda, Objective-C++"
-  #   image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+  - title: "Journey Like a Genius ([https://pitorch.org/](https://pytorch.org/))" 
+    description: 
+      - Machine learning library for applications such as computer vision and natural language processing
+      - "Technology Used: Python, Cuda, Objective-C++"
+    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
