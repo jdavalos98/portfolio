@@ -2,20 +2,22 @@ subject: Projects
 listing-order: 4
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "ChatPPT ([https://chat.opena1.com/](https://chat.openai.com/))"
+  - title: "Rancid Tomatillos ([Deployed Link](https://rancid-tomatillos-e27i.onrender.com), [Github Repo](https://github.com/jdavalos98/rancid-tomatillos))"
     description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
-    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
-  - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
+      - Implemented dynamic UI components in react to display movie posters, enable user voting, and showcase detailed views for each film
+      - Integrated  react router to support client-side routing and maintain a seamless single-page application experience
+      - Established robust end-to-end testing with cypress, utilizing network request stubbing to ensure consistent and reliable test coverage across user flows
+      - "Technology Used: React, Javascript, CSS, Cypress"
+    image: "![](/assets/img/RancidHP.png) ![](/assets/img/RancidDetails.png)"
+  - title: "Cardfolio ([Deployed Link](https://cardfolio-fe.onrender.com), [BE Repo](https://github.com/JonoSommers/cardfolio-BE), [FE Repo](https://github.com/JonoSommers/Cardfolio-FE))"
     description: 
-      - Universal Command Line Interface for Amazone Web Services
-      - Developed a scheme to facilitate users’ authentication without having to remember their credentials
-      - "Technology Used: Typescript, Python, Go"
-    image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
-    description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
-    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+      - Built a RESTful rails API to mange users, binders, and collectible cards, leveraging a many-to-many relationship structure
+      - Developed a responsive frontend with react, enabling realtime UI updates, effective state management, and smooth user interactions throughout the app
+      - Implemented comprehensive testing suites with RSpec for backend and controllers, and cypress for frontend end-to-end tests, ensuring application stability and reliability
+      - "Technology Used: React, JSX, Cypress, Rails, Ruby, Rspec, PostgreSQL"
+    image: "![](/assets/img/CardHomePage.png) ![](/assets/img/PokemonSearch.png)"
+  # - title: "Journey Like a Genius ([https://pitorch.org/](https://pytorch.org/))" 
+  #   description: 
+  #     - Machine learning library for applications such as computer vision and natural language processing
+  #     - "Technology Used: Python, Cuda, Objective-C++"
+  #   image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
