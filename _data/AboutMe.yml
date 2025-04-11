@@ -1,5 +1,6 @@
-subject: About Me
+subject: About Me 
 listing-order: 1
 icon: "assets/img/person.png"
 contents:
+  - title: "[My Resume](https://docs.google.com/document/d/16o9LyENZCFhd0rZFWeVW80fCgw08BjGo4Qm6vXDA1sk/edit?tab=t.0)"
   - description: "I’m a full-stack software developer with a strong background in leadership and management, having worked in retail and restaurant management before transitioning into the tech industry. In these roles, I developed critical skills such as time management, problem-solving, teamwork, and effective communication, all of which I now apply in my software development career. My experience in these industries taught me the importance of creating solutions that are both user-friendly and effective, which has influenced my approach to app development. My passion for gaming and technology led me to software development, where I’m excited to build innovative, engaging apps that support gamers and content creators. I believe that my creative and strategic thinking, honed through my leadership roles, gives me a unique perspective in creating applications that are not only functional but also enjoyable to use. Looking ahead, I’m eager to continue learning, pushing the boundaries of my skills, and working on projects that have a positive impact on the gaming community. I’m excited about the future of tech and looking for opportunities where I can contribute to creating apps that bring value to both gamers and developers."
