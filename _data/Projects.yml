@@ -8,15 +8,15 @@ contents:
       - Integrated  react router to support client-side routing and maintain a seamless single-page application experience
       - Established robust end-to-end testing with cypress, utilizing network request stubbing to ensure consistent and reliable test coverage across user flows
       - "Technology Used: React, Javascript, CSS, Cypress"
-    image: "![](/assets/img/RancidHP.png) 
-            ![](/assets/img/RancidDetails.png)"
+    image: <img src="assets/img/RancidHP.png" alt="image" />, <img src="assets/img/RancidDetails.png" alt="image" />
   - title: "Cardfolio ([Deployed Link](https://cardfolio-fe.onrender.com), [BE Repo](https://github.com/JonoSommers/cardfolio-BE), [FE Repo](https://github.com/JonoSommers/Cardfolio-FE))"
     description: 
       - Built a RESTful rails API to mange users, binders, and collectible cards, leveraging a many-to-many relationship structure
       - Developed a responsive frontend with react, enabling realtime UI updates, effective state management, and smooth user interactions throughout the app
       - Implemented comprehensive testing suites with RSpec for backend and controllers, and cypress for frontend end-to-end tests, ensuring application stability and reliability
       - "Technology Used: React, JSX, Cypress, Rails, Ruby, Rspec, PostgreSQL"
-    image: "![](/assets/img/CardHomePage.png) ![](/assets/img/PokemonSearch.png)"
+    image: <img src="assets/img/CardHomePage.png" alt="image" />, <img src="assets/img/PokemonSearch.png" alt="image" />
+
   # - title: "Journey Like a Genius ([https://pitorch.org/](https://pytorch.org/))" 
   #   description: 
   #     - Machine learning library for applications such as computer vision and natural language processing
