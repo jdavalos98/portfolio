@@ -16,7 +16,7 @@ contents:
       - Developed a responsive frontend with react, enabling realtime UI updates, effective state management, and smooth user interactions throughout the app
       - Implemented comprehensive testing suites with RSpec for backend and controllers, and cypress for frontend end-to-end tests, ensuring application stability and reliability
       - "Technology Used: React, JSX, Cypress, Rails, Ruby, Rspec, PostgreSQL"
-    image: "![](https://ibb.co/HTLy2J71) ![](/assets/img/PokemonSearch.png)"
+    image: "![](/assets/img/CardHomePage.png) ![](/assets/img/PokemonSearch.png)"
   # - title: "Journey Like a Genius ([https://pitorch.org/](https://pytorch.org/))" 
   #   description: 
   #     - Machine learning library for applications such as computer vision and natural language processing
